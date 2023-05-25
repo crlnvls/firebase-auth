@@ -14,3 +14,5 @@ Firebase Authentication with Email/Password and Google sign-in in React
 - [Vite](https://vitejs.dev/)
 - [Firebase](https://firebase.google.com/)
 
+## Future Features
+- Style with Tailwind CSS
