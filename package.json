@@ -8,5 +8,25 @@
   },
   "devDependencies": {
     "vite": "^4.3.8"
-  }
+  },
+  "name": "firebase-auth",
+  "description": "Firebase Authentication with Email/Password and Google sign-in in React",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crlnvls/firebase-auth.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crlnvls/firebase-auth/issues"
+  },
+  "homepage": "https://github.com/crlnvls/firebase-auth#readme"
 }
