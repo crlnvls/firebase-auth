@@ -12,7 +12,7 @@ import {
 
 const AuthContext = createContext();
 
-export const Provider = ({ children }) => {
+export const AuthProvider = ({ children }) => {
   const [user, setUser] = useState();
   const [loading, setLoading] = useState(true);
 
