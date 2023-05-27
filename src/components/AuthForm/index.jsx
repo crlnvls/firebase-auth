@@ -12,7 +12,7 @@ const AuthForm = (props) => {
   const navigate = useNavigate();
   const { googleSignIn, resetPassword } = useAuth();
 
-  const loginOrRegister = props.LoginOrRegister;
+  const loginOrRegister = props.loginOrRegister;
 
   const handleEmail = (e) => {
     setEmail(e.target.value);
