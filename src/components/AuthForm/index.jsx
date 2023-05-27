@@ -27,7 +27,7 @@ const AuthForm = (props) => {
     setError("");
     try {
       await loginOrRegister(email, password);
-      navigate("/home");
+      navigate("/welcome");
     } catch (err) {
       setError(err.message);
     }
