@@ -17,3 +17,5 @@ Firebase Authentication with Email/Password and Google sign-in in React
 ## Future Features
 - Style with Tailwind CSS
 - Create database with Cloud Firestore to store names and show it at the Welcome page 
+- Add Facebook and Twitter providers
+- Create message when reseting the password
